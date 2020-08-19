@@ -3,12 +3,12 @@
 #include <math.h>
 
 // HEADER FILES OF GSL
-#include    <gsl/gsl_complex.h>
-#include    <gsl/gsl_complex_math.h> 
-// HEADER FILES I CREATED
+// #include    <gsl/gsl_complex.h>
+// #include    <gsl/gsl_complex_math.h> 
+// // HEADER FILES I CREATED
 
-#include "read_header.h"
-#include "data_types.h"
+// #include "read_header.h"
+// #include "data_types.h"
 /* */
 int inv_mat(double **,unsigned int,double **);
 
